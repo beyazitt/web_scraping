@@ -1,0 +1,2 @@
+sozluk = dict()
+sozluk.keys()
